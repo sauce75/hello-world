@@ -1,2 +1,3 @@
 # hello-world
 repository to store ideas and resources
+I work for the Custer-Gallatin National Forest. My duty station is the Bozeman Ranger District. I'm Natural Resource Specialist assigned to the Natural Resource Division. I'm task with managing vegetation resources in accordance with all federal environmental laws and Forest Service management plans. I have working for the federal government since 2009. I use ArcMap regularly to create suitability models, vegetation classification from satelite imagery, and update geodatbases as well as other task. I plan on transitioning to a GIS Specialist position when one becomes available.  
